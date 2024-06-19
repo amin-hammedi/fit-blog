@@ -6,6 +6,10 @@ const Layout = ({ children }) => (
     <Head>
       <title>Workout Splits</title>
       <link rel="stylesheet" href="/style.css" />
+      <link
+        rel="icon"
+        href="https://tse2.mm.bing.net/th?id=OIG4.A.I9yB1dFxcE6tLfhzSD&pid=ImgGn"
+      />
     </Head>
     <header>
       <h1>Workout Splits</h1>
